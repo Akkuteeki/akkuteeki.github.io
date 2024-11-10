@@ -146,17 +146,10 @@ footer p {
     font-size: 14px;
 }
 .photo {
-    background: url('sigma.png') no-repeat center center;
-    background-size: cover;
-    height: 400px;
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #fff;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
-    border-radius: 10px;
+    border-radius: 5px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-    margin: 20px;
-    padding: 20px;
+    margin: 5px;
+    padding: 5px;
 }
