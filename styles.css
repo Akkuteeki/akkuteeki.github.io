@@ -146,10 +146,6 @@ footer p {
     font-size: 14px;
 }
 .photo {
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-    margin: 5px;
-    padding: 5px;
+    max-width: auto;
+    height: auto;
 }
