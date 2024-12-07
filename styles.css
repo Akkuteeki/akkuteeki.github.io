@@ -139,6 +139,7 @@ footer {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     background: linear-gradient(to bottom, #000, #333);
+    display: flex;
 }
 
 footer p {
